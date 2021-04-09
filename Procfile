@@ -1,1 +1,1 @@
-web: gunicorn HowManyCommit.wsgi --log-file
+web: gunicorn HowManyCommit.wsgi
